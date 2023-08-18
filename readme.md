@@ -1,3 +1,5 @@
 A turma esta aprendendo a usar o Git
 
-A turma esta conseguindo!
+
+
+Finalizando a aula!
